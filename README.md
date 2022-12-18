@@ -1,0 +1,1 @@
+El desafío de este proyecto se centra en desarrollar el código basado, principalmente en Javascript, de una pequeña página web a modo del tradicional juego del ahorcado. Corresponde a un desafío del Programa One Next Education de Oracle y dictado por Alura Latam https://www.aluracursos.com/, programa en el cual fuí becado.
